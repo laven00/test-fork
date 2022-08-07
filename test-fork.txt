@@ -1,0 +1,4 @@
+test 
+
+ambiiro m.dh ld bambiiro.
+ambin m.f.dh eeg ambi.
